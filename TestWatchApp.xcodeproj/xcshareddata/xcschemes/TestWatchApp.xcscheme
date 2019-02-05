@@ -106,6 +106,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "Test + WatchApp"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
